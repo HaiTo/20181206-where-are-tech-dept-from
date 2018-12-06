@@ -241,6 +241,7 @@
   width: 98%;
   margin: 0px;
   box-shadow: none;
+  word-wrap: break-word;
 }
 
 .reveal pre code {
