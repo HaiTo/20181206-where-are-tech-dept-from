@@ -1,5 +1,5 @@
 theme : simple
 theme-override : pitchme.css
 hightlight : atom-one-dark
-layout : left-top
+layout : top-left
 transition : non
