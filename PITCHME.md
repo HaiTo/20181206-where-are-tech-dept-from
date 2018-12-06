@@ -4,17 +4,17 @@ at Omotesndo.rb
 
 ---
 
-# 自己紹介
+## 自己紹介
 - HaiTo
 - Rubyで仕事→Rubyで仕事→PHPとGoで仕事、みたいな感じ
 - 猫好き
 
 ---
-# TechDebtはどこから来て
-## どこへゆくのでしょうか
+## TechDebtはどこから来て
+### どこへゆくのでしょうか
 
 ---
-# What tech-debt?
+### What tech-debt?
 ```
 
 Technical debt (also known as design debt or code debt) is a concept in software development that reflects the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer.
